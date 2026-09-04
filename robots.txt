@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://savannahsidle.github.io/WWP/sitemap.xml
